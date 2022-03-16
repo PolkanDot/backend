@@ -1,0 +1,14 @@
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.exe
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.deps.json
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.runtimeconfig.json
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.runtimeconfig.dev.json
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.dll
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\bin\Debug\netcoreapp3.1\SimpleCalculatorProject.pdb
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.csproj.AssemblyReference.cache
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.AssemblyInfoInputs.cache
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.AssemblyInfo.cs
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.dll
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.pdb
+C:\Study\backend\SimpleCalculator\SimpleCalculatorProject\obj\Debug\netcoreapp3.1\SimpleCalculatorProject.genruntimeconfig.cache
